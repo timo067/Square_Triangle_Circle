@@ -1,0 +1,11 @@
+C:\Users\PC07-204\Desktop\ZADACHI\Square_Triangle_Circle\bin\Debug\Square_Triangle_Circle.exe.config
+C:\Users\PC07-204\Desktop\ZADACHI\Square_Triangle_Circle\bin\Debug\Square_Triangle_Circle.exe
+C:\Users\PC07-204\Desktop\ZADACHI\Square_Triangle_Circle\bin\Debug\Square_Triangle_Circle.pdb
+C:\Users\PC07-204\Desktop\ZADACHI\Square_Triangle_Circle\obj\Debug\Square_Triangle_Circle.csproj.AssemblyReference.cache
+C:\Users\PC07-204\Desktop\ZADACHI\Square_Triangle_Circle\obj\Debug\Square_Triangle_Circle.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC07-204\Desktop\ZADACHI\Square_Triangle_Circle\obj\Debug\Square_Triangle_Circle.Form1.resources
+C:\Users\PC07-204\Desktop\ZADACHI\Square_Triangle_Circle\obj\Debug\Square_Triangle_Circle.Properties.Resources.resources
+C:\Users\PC07-204\Desktop\ZADACHI\Square_Triangle_Circle\obj\Debug\Square_Triangle_Circle.csproj.GenerateResource.cache
+C:\Users\PC07-204\Desktop\ZADACHI\Square_Triangle_Circle\obj\Debug\Square_Triangle_Circle.csproj.CoreCompileInputs.cache
+C:\Users\PC07-204\Desktop\ZADACHI\Square_Triangle_Circle\obj\Debug\Square_Triangle_Circle.exe
+C:\Users\PC07-204\Desktop\ZADACHI\Square_Triangle_Circle\obj\Debug\Square_Triangle_Circle.pdb
